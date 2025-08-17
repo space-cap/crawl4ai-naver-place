@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(chcp:*)",
+      "Bash(pip install:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
